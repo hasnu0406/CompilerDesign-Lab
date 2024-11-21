@@ -2,7 +2,7 @@
 
 ## Register Number : 212223240052
 
-## Date : 28/9/24
+## Date : 17.08.24
 
 ## AIM:
 
@@ -71,7 +71,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3e976cd0-cbab-40b1-b4fc-15dca8cda2f7)
+![image](https://github.com/user-attachments/assets/e3d83e57-eb88-420d-92fb-175f01950450)
 
 ## RESULT:
 
